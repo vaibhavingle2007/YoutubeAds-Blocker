@@ -6,8 +6,8 @@ A brief description of what this project does and who it's for
 
 ## Installation Steps
 
- - Create a new folder
- - Save all files in the folder
+ - Downlode The File
+ - Extract the Zip file
  - Unable Dev Mode on Chrome/Arc
  - Load it in Browser as an unpacked extension
 
