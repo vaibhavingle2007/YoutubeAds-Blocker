@@ -8,8 +8,8 @@ A brief description of what this project does and who it's for
 
  - Create a new folder
  - Save all files in the folder
- - Create placeholder icons
- - Load in Chrome/Arc Browser as an unpacked extension
+ - Unable Dev Mode on Chrome/Arc
+ - Load it in Browser as an unpacked extension
 
 
 ## Authors
